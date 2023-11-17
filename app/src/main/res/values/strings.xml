@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora de IMC!</string>
+    <string name="message">IMC!</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+    <string name="table1">Menor que 18,5 Abaixo do Peso</string>
+    <string name="table2">Entre 18,5 e 24,9 Normal</string>
+    <string name="table3">Entre 25,0 e 29,9 Sobrepeso</string>
+    <string name="table4">Entre 30,0 e 39,9 Obesidade</string>
+    <string name="table5">Maior que 40,0 Obesidade Grave</string>
+
+
+
+</resources>
